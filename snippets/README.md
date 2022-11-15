@@ -1,0 +1,2 @@
+# Django_REST_Framaworkのチュートリアルを進めていきつつ勉強する！
+ついでにDjango自体の復習も兼ねたい
